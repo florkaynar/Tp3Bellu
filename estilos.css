@@ -49,7 +49,7 @@ body {
 /*ESTILOS DE BARRA DE NAVEGACIÓN*/
 nav {
     /*Color de texto declarado en #Hex*/
-    color: #ffffff;
+    color: #FD8F52 ;
 }
 
 /*ESTILOS LINKS EN BARRA DE NAVEGACIÓN*/
@@ -81,10 +81,10 @@ nav a:hover{
     /*Altura de imagen relativa al espacio disponible: "100% del espacio"*/
     height: 100%;
     /*Altura máxima que puede alcanzar la imagen: 80px*/
-    max-height: 80px;
+    max-height: 100px;
     /*Posicionamiento 10px abajo de dónde debería estar*/
     position: relative;
-    top: 10px;
+    top: 20px;
 }
 
 /*ESTILOS DE BANNER*/
