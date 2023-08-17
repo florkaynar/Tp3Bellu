@@ -19,7 +19,7 @@ body {
     /*Declaración de tipografía*/
     font-family: 'Poppins';
     /*Declaración de peso de Tipografía*/
-    font-weight: 600i;
+    font-weight: 700i;
     /*Declaración de color de fondo del body*/
     background-color: black;
     /*Declaración del color de la tipografía en el body*/
@@ -61,7 +61,7 @@ nav a{
     /*Tipografía*/
     font-family: 'Poppins';
     /*Peso de la tipografía (tiene que estar linkeada la variable)*/
-    font-weight: 400;
+    font-weight: 500;
     /*Espaciado interno*/
     padding: 25px;
     /*Tiempo de transición animaciones de hover (mirar abajo)*/
